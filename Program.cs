@@ -45,7 +45,6 @@ namespace decompose
 
                     if (tmp != null)
                     {
-                        // WriteLine(tmp + " " + i);
                         return tmp + " " + i;
                     }
                     else
